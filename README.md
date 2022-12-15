@@ -9,9 +9,9 @@ I am working with various web technologies since last 12 years. JavaScript and T
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [xkeshav.com](http://xkeshav.com)
 *   ✉️  You can contact me at [xkeshav@gmail.com](mailto:xkeshav@gmail.com)
-*   🧠  I'm learning Vue.js
+*   🧠  I'm learning Typescript
 *   🤝  I'm open to collaborating on JavaScript and TypeScript projects
-*   ⚡  I am sentiments to words.
+*   ⚡  love music and music
 
 ### Skills
 
