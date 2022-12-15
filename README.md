@@ -16,12 +16,10 @@ I am working with various web technologies since last 12 years. JavaScript and T
 ### Skills<p align="left">
 	
 <div align="center">
-    <img src="./skill.svg" width="400" height="400" alt="css-in-readme">
+    <img src="./skill.svg" width="40" height="40" alt="javascript">
 </div>
 	
-
-
-                    
+             
 ### Socials
                   
                   
