@@ -11,7 +11,7 @@ I am working with various web technologies since 2009. JavaScript and TypeScript
 *   ✉️  You can contact me at [xkeshav@gmail.com](mailto:xkeshav@gmail.com)
 *   🧠  I'm learning Typescript
 *   🤝  I'm open to collaborating on JavaScript and TypeScript projects
-*   ⚡  love music and music
+*   ⚡  love books and music
 
 ### Skills
 
