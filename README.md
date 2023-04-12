@@ -4,7 +4,7 @@ Hi 👋 My name is Keshav Mohta
 Web Developer
 -------------
 
-I am working with various web technologies since last 12 years. JavaScript and TypeScript are my main technologies and always try to be up-to-date, HTML, CSS are my core skill. Also good hand experience in Angular and React and PHP with MySQL. accessibility and maintainability of codebase is my main purpose while code.
+I am working with various web technologies since 2009. JavaScript and TypeScript are my main technologies and always try to be up-to-date, HTML, CSS are my core skill. Also good hand experience in Angular and React and PHP with MySQL. accessibility and maintainability of codebase is my main purpose while code.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [xkeshav.com](http://xkeshav.com)
