@@ -16,30 +16,30 @@ Prioritizing the accessibility and maintainability of codebase is integral to my
 ### Skills
 
 <p align="left" >
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 ### Socials
 
 <p align="left" >
-<a href="https://www.xkeshav.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/portfolio.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/155861/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.xkeshav.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/portfolio.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/155861/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/xkeshav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges<b>My GitHub Stats</b>
