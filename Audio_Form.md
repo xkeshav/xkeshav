@@ -1,4 +1,4 @@
-**Assignment: Voice-Activated Form with Editing Capability**
+# Assignment: Voice-Activated Form with Editing Capability
 
 **Objective:**
 Build a web page featuring a form with 4-5 input fields, a "Speak" button enabling users to record a 1-minute audio clip. The form should dynamically populate based on the audio content, leaving fields empty if not mentioned. Additionally, provide users the ability to edit the automatically filled information before submitting.
@@ -34,10 +34,12 @@ Build a web page featuring a form with 4-5 input fields, a "Speak" button enabli
    - Provide user feedback during the recording process.
 
 **Submission:**
+
 - Share the codebase via a version control system (e.g., GitHub).
 - Include a brief documentation file explaining the structure, technologies used, and any challenges faced.
 
 **Evaluation Criteria:**
+
 - Successful implementation of the voice recording and transcription.
 - Accurate and dynamic form filling based on audio content.
 - Effective editing functionality.
@@ -46,3 +48,6 @@ Build a web page featuring a form with 4-5 input fields, a "Speak" button enabli
 - Submission and display of form data.
 
 **Note:** Feel free to use any front-end libraries or frameworks as needed. The goal is to create a functional and user-friendly voice-activated form with the specified features.
+
+**Date**: Mon 4 Dec, 2023.
+**Submission date** : 1 Week. code push in your own github repo.
