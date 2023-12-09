@@ -12,7 +12,7 @@
 7. Allow the user to perform date arithmetic by adding or subtracting a specified number of days from a selected date.
 8. Ensure the web page is mobile-friendly and functions as a Progressive Web App.
 9. Use JavaScript APIs, especially the latest ones.
-10. Display the current date in Hindi month format using the `Intl.NumberFormat` API.
+10. Display the current date in Hindi month format using the [`Intl.DateTimeFormat`][1] API.
 
 **Additional Information:**
 - Use responsive design principles to ensure a seamless experience on both desktop and mobile devices.
@@ -38,3 +38,7 @@
 **Deadline:** [Specify Deadline]
 
 **Note:** Feel free to reach out for clarification or guidance during the development process. Good luck!
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
+
+&copy; 2023 RecursiveZero, All rights reseved.
