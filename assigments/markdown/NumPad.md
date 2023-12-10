@@ -54,3 +54,5 @@ Create a dynamic and visually appealing webpage for an intern assignment with th
 - Include any additional notes or considerations.
 
 **Note:** This assignment aims to evaluate your skills in web development, design aesthetics, and attention to detail. Good luck!
+
+&copy; 2023 RecursiveZero, All rights reserved.

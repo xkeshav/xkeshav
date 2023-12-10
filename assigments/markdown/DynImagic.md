@@ -27,11 +27,13 @@ Create a Python-based application that utilizes AI to separate colors from a gro
    - Clearly explain the structure of your UI and how it interacts with the image processing functions.
 
 **Submission:**
+
 1. Push the complete codebase to the GitHub repository.
 2. Include a README.md file with clear instructions on how to set up and run the application.
 3. Provide a short document explaining the AI techniques used for color separation.
 
 **Evaluation Criteria:**
+
 1. **Functionality (50%):**
    - Successful color separation and image generation.
    - User-friendly UI with design and color selection features.
@@ -50,3 +52,5 @@ Create a Python-based application that utilizes AI to separate colors from a gro
 
 **Note:**
 Feel free to use any libraries or frameworks you find suitable for image processing and UI development. The goal is to create a functional and well-documented application that meets the specified requirements.
+
+&copy; 2023 RecursiveZero, All rights reserved.

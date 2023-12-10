@@ -46,13 +46,16 @@ Create a web-based portal where users can easily access and search for details o
 
 **Evaluation Criteria:**
 Interns will be evaluated based on the following criteria:
-   - UI design and user experience.
-   - Functionality and performance of the search feature.
-   - Security measures implemented.
-   - Quality of code and documentation.
+
+- UI design and user experience.
+- Functionality and performance of the search feature.
+- Security measures implemented.
+- Quality of code and documentation.
 
 **Submission Deadline:**
 [Specify the deadline for the intern to submit the completed assignment.]
 
 **Note:**
 Interns are encouraged to be creative and innovative in their approach to designing the portal. The goal is to create a user-friendly and visually appealing platform for accessing brand information efficiently.
+
+&copy; 2023 RecursiveZero, All rights reserved.

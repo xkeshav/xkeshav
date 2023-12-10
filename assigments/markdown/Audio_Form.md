@@ -51,3 +51,5 @@ Build a web page featuring a form with 4-5 input fields, a "Speak" button enabli
 
 **Date**: Mon 4 Dec, 2023.
 **Submission date** : 1 Week. code push in your own github repo.
+
+&copy; 2023 RecursiveZero, All rights reserved.

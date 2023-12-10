@@ -2,7 +2,8 @@
 
 **Objective:** Develop a minimalistic Progressive Web App (PWA) with mobile-friendly design that allows users to calculate the difference between two dates, perform date arithmetic, and display the current date in Hindi month using JavaScript APIs.
 
-**Requirements:**
+**Requirements:**  
+
 1. Create a single-page web application with HTML, CSS, and JavaScript.
 2. Implement a date input field for the user to input the starting date in a specific format.
 3. Include a second date input field for the user to enter another date.
@@ -15,18 +16,22 @@
 10. Display the current date in Hindi month format using the [`Intl.DateTimeFormat`][1] API.
 
 **Additional Information:**
+
+ 
 - Use responsive design principles to ensure a seamless experience on both desktop and mobile devices.
 - Implement error handling to manage invalid date entries.
 - Keep the user interface clean and intuitive, focusing on the essential functionality.
 - Test the PWA on various browsers to ensure cross-browser compatibility.
 
-**Submission Guidelines:**
+**Submission Guidelines:**  
+
 - Provide the source code hosted on a version control platform (e.g., GitHub).
 - Include a README file with instructions on how to run the application locally.
 - Demonstrate the PWA functionality on different devices.
 - Address any potential issues or limitations in the README.
 
-**Evaluation Criteria:**
+**Evaluation Criteria:**  
+
 - Adherence to the specified requirements.
 - Code clarity, organization, and best practices.
 - User interface design and user experience.
@@ -41,4 +46,4 @@
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
 
-&copy; 2023 RecursiveZero, All rights reseved.
+&copy; 2023 RecursiveZero, All rights reserved.

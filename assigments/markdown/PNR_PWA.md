@@ -41,9 +41,14 @@ Create a Progressive Web App (PWA) focused on fetching and displaying Indian Rai
 
 **Submission:**
 Submit the following deliverables:
+
 - Source code with proper comments and version control.
 - Comprehensive documentation.
 - Test cases and results.
 - A brief presentation highlighting key features and implementation details.
 
 **Note:** Ensure adherence to coding standards, security best practices, and scalability considerations throughout the development process. Feel free to reach out for clarifications or guidance. Good luck!
+
+Good luck!
+
+&copy; 2023 RecursiveZero, All rights reserved.

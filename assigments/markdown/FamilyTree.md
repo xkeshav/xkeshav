@@ -43,3 +43,5 @@ As an intern, your task is to develop a Family Tree application that caters to t
 The internship assignment is expected to be completed within [specified duration]. Regular check-ins will be scheduled to monitor progress and provide guidance.
 
 **Note:** Successful completion of the assignment may lead to further opportunities for involvement in the project or consideration for a more permanent position within the company.
+
+&copy; 2023 RecursiveZero, All rights reserved.
