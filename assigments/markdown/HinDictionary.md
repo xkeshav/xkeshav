@@ -1,41 +1,60 @@
-**Assignment Title: English-Hindi Dictionary Web App**
+# Assignment Title: Bilingual Dictionary Web App
 
-**Task Overview:**
-Develop a bilingual English-Hindi dictionary web application that allows users to search for the meaning of English words and their corresponding Hindi translations. Optional features include examples and pronunciation.
+## Task Overview
 
-**Tasks:**
+Develop a bilingual dictionary web application that allows users to add and search for the meaning of Hindi and English words. Users should be able to add multiple meanings, examples, and pronunciation for each entry. The application should operate locally without internet search, and users can commit their progress to a GitHub repository.
 
-1. **User Interface:**
-   - Design a clean and user-friendly interface for the dictionary.
-   - Include input fields for users to enter English words and display areas for Hindi meanings.
+## Tasks
 
-2. **English to Hindi Translation:**
-   - Implement a feature that allows users to enter an English word and retrieves its Hindi meaning.
-   - Ensure accurate translations using a reliable English-Hindi dictionary or API.
+### User Interface
 
-3. **Hindi to English Translation:**
-   - Enable users to input a Hindi word and retrieve its English meaning.
-   - Implement a mechanism to handle variations and multiple meanings.
+Design a user-friendly interface with input fields for Hindi and English words, along with areas for meanings, examples, and pronunciation.
+Create a section for displaying saved entries and a search bar for quick lookups.
 
-4. **Optional Features:**
-   - Include examples of word usage for both English and Hindi entries.
-   - Implement an optional pronunciation feature for English words.
+### Add Word Functionality
 
-5. **Responsive Design:**
-   - Ensure the application is responsive and accessible on various devices.
+Implement a feature that allows users to add new words with their meanings in both Hindi and English.
+Include the option to add multiple meanings, example sentences, and pronunciation.
 
-**Submission Guidelines:**
-- Submit the project as a compressed folder.
-- Include HTML, CSS, JavaScript, and any additional files or assets.
-- Provide clear comments and documentation for your code.
+### Local Search
 
-**Evaluation Criteria:**
-- Accuracy of translations.
-- User interface design and ease of use.
-- Implementation of optional features (examples, pronunciation).
-- Responsiveness and compatibility across different devices.
+Develop a search function to find words within the locally stored dictionary.
+Display the search results with meanings, examples, and pronunciation if available.
 
-**Deadline:**
-Submit your project by [insert deadline here]. Late submissions will be penalized.
+### Handle Duplicate
 
-Best of luck with your English-Hindi dictionary web application!
+Ensure that the application prevents the addition of duplicate words. If a word already exists, prompt the user to update the existing entry.
+
+### GitHub Repository
+
+Create a GitHub repository for the project.
+Commit regularly to showcase coding progress and adherence to coding standards.
+
+### Optional Features
+
+Include the option to edit or delete existing entries.
+Provide a link for internet search in case a word is not found locally.
+
+## Submission Guidelines
+
+Share the GitHub repository link for evaluation.
+Include a README file with instructions on how to run the application locally.
+Ensure clear comments and documentation in your code.
+
+### Evaluation Criteria
+
+- Functionality of adding, searching, and displaying entries.
+- Prevention of duplicate entries.
+- Inclusion of optional features (editing, deletion, internet search link).
+- Code structure, readability, and adherence to coding standards.
+- Regular commits to the GitHub repository.
+
+### Deadline
+
+Submit your project by 1 week. Regular commits and progress updates are encouraged.
+
+Best of luck with your bilingual dictionary web application!
+
+**Note:** This assignment aims to evaluate your skills in web development, design aesthetics, and attention to detail. Good luck!
+
+&copy; 2023 RecursiveZero, All rights reserved.
