@@ -1,9 +1,10 @@
-**Assignment: Image Color Separation and Generation UI using AI**
+# Internship Assignment: DynImagic
 
-**Objective:**
-Create a Python-based application that utilizes AI to separate colors from a group image and generate individual images with the same pattern. Implement a user-friendly UI to display available designs and colors, allowing users to generate specific color images on demand.
+## Objective
 
-**Requirements:**
+Create a Mobile application that utilizes AI to separate colors from a group image and generate individual images with the same pattern. Implement a user-friendly UI to display available designs and colors, allowing users to generate specific color images on demand.
+
+## Requirements
 
 1. **Image Processing with AI:**
    - Develop a function that takes two images as input: one with the pattern/design and another with a group of colors and patterns.
@@ -22,17 +23,17 @@ Create a Python-based application that utilizes AI to separate colors from a gro
    - Include a README file with instructions on how to run the application, required dependencies, and any additional information for users and developers.
 
 4. **Documentation:**
-   - Document your code thoroughly using comments and docstrings.
+   - Document your code thoroughly.
    - Provide a brief explanation of the AI/image processing techniques used.
    - Clearly explain the structure of your UI and how it interacts with the image processing functions.
 
-**Submission:**
+## Submission
 
 1. Push the complete codebase to the GitHub repository.
 2. Include a README.md file with clear instructions on how to set up and run the application.
 3. Provide a short document explaining the AI techniques used for color separation.
 
-**Evaluation Criteria:**
+## Evaluation Criteria
 
 1. **Functionality (50%):**
    - Successful color separation and image generation.
@@ -50,7 +51,8 @@ Create a Python-based application that utilizes AI to separate colors from a gro
    - Concise documentation explaining the AI techniques used.
    - Clear instructions for users and developers.
 
-**Note:**
+## Note
+
 Feel free to use any libraries or frameworks you find suitable for image processing and UI development. The goal is to create a functional and well-documented application that meets the specified requirements.
 
 &copy; 2023 RecursiveZero, All rights reserved.
