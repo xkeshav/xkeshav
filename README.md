@@ -2,16 +2,16 @@
 
 ## A Web developer and UI enthusiast
 
-I have been immersed in diverse web technologies since 2009, with a primary focus on JavaScript and TypeScript. Staying current with industry trends is a constant commitment. HTML and CSS form the foundation of my skill set, and I possess substantial expertise in Angular, React, and PHP with MySQL.
+I have been immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying current with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
-Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy. Additionally, I have developed VS Code and Chrome extensions and hold an AWS certificate.
+Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy. Additionally, I have developed VS Code Extension, Chrome extensions , NPM Packages, JSR Package and hold an AWS certificate.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [xkeshav.com](http://xkeshav.com)
+* 🖥️  See my portfolio at [xkeshav.com](http://www.xkeshav.com)
 * ✉️  You can contact me at [xkeshav@gmail.com](mailto:xkeshav@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Typescript + Astro JS + Hono
 * 🤝  I'm open to collaborating on JavaScript and TypeScript projects
-* ⚡  love books and music
+* ⚡  love books and music and meeting.
 
 ### Skills
 
