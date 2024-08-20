@@ -68,6 +68,6 @@ Also hold an AWS practitioner certificate
 </a>
 
 
-```
+--- 
+
 ![Visitor Count](https://profile-counter.glitch.me/xkeshav/count.svg)
-```
