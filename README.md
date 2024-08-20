@@ -1,10 +1,22 @@
 # Hi 👋 My name is Keshav Mohta
 
-## A Web developer and UI enthusiast
+## A Thinking Engineer with knowledge of Web 
 
-I have been immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying current with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
+immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying current with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
-Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy. Additionally, I have developed VS Code Extension, Chrome extensions , NPM Packages, JSR Package and hold an AWS certificate.
+posses 53k Reputation over Stackoverflow 
+
+
+Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
+
+below are few of my work which are in oublic domain
+- VS Code Extension - CSS Color Collector
+- NPM Packages
+- CLI tool
+- Blog 
+- JSR Package 
+
+Also hold an AWS practitioner certificate 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [xkeshav.com](http://www.xkeshav.com)
@@ -54,3 +66,8 @@ Prioritizing the accessibility and maintainability of codebase is integral to my
 <a href="https://github.com/xkeshav" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkeshav&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+
+
+```
+![Visitor Count](https://profile-counter.glitch.me/xkeshav/count.svg)
+```
