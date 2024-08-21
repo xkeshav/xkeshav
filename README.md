@@ -4,12 +4,11 @@
 
 immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying current with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
-posses 53k Reputation over Stackoverflow 
-
+- 53k Reputation over Stackoverflow 
 
 Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
 
-below are few of my work which are in oublic domain
+Below are few of my work which are in public domain
 - VS Code Extension - CSS Color Collector
 - NPM Packages
 - CLI tool
@@ -21,7 +20,7 @@ Also hold an AWS practitioner certificate
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [xkeshav.com](http://www.xkeshav.com)
 * 📜  My [Gist](https://gist.github.com/xkeshav)
-* 📬 You can contact me at [xkeshav@gmail.com](mailto:xkeshav@gmail.com)
+* 📬  You can contact me at [xkeshav@gmail.com](mailto:xkeshav@gmail.com)
 * 🧠  I'm learning Typescript + Astro JS + Hono
 * 🤝  I'm open to collaborating on JavaScript and TypeScript projects
 * ⚡  love books and music and meeting.
@@ -70,4 +69,5 @@ Also hold an AWS practitioner certificate
 
 --- 
 
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/xkeshav/count.svg)
