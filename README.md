@@ -1,19 +1,19 @@
 # Hi 👋 My name is Keshav Mohta
 
-## A Thinking Engineer with knowledge of Web 
+## A Software Engineer with a knowledge of web world. 
 
-immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying current with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
+immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying updated with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
-- 53k Reputation over Stackoverflow 
+having 53k+ Reputation over Stackoverflow.
 
 Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
 
 Below are few of my work which are in public domain
-- VS Code Extension - CSS Color Collector
-- NPM Packages
-- CLI tool
+
+- VS Code Extension - [CSS Color Collector][ccc]
+- NPM Packages -[Watch][npm]
 - Blog 
-- JSR Package 
+- [JSR Package][jsr]
 
 Also hold an AWS practitioner certificate 
 
@@ -71,3 +71,7 @@ Also hold an AWS practitioner certificate
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/xkeshav/count.svg)
+
+[ccc]: https://marketplace.visualstudio.com/items?itemName=xkeshav.css-color-collector
+[npm]: https://www.npmjs.com/settings/xkeshav/packages
+[jsr]: https://jsr.io/@xkeshav
