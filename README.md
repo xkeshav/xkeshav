@@ -1,6 +1,6 @@
 # Hi 👋 My name is Keshav Mohta
 
-## A Software Engineer with a knowledge of web world. 
+## A thinking software engineer
 
 immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying updated with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
