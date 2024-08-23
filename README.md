@@ -73,5 +73,5 @@ Also hold an AWS practitioner certificate
 ![Visitor Count](https://profile-counter.glitch.me/xkeshav/count.svg)
 
 [ccc]: https://marketplace.visualstudio.com/items?itemName=xkeshav.css-color-collector
-[npm]: https://www.npmjs.com/settings/xkeshav/packages
+[npm]: https://www.npmjs.com/package/@xkeshav/watch
 [jsr]: https://jsr.io/@xkeshav
