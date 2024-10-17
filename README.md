@@ -4,16 +4,17 @@
 
 immersed in diverse web technologies since 2009, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying updated with industry trends is a constant commitment and I possess substantial expertise in Angular, React, PHP and MySQL.
 
-having 53k+ Reputation over Stackoverflow.
+Having 53k+ Reputation over [StackOverflow](https://stackoverflow.com/users/155861/xkeshav?tab=profile).
 
 Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
 
-Below are few of my work which are in public domain
+Below are few of my open source projects
 
 - VS Code Extension - [CSS Color Collector][ccc]
-- NPM Packages -[Watch][npm]
-- Blog 
-- [JSR Package][jsr]
+- NPM Packages
+   - [Watch][npm]
+   - [gh-repo-care][gh-repo-care]
+- [Blog](http://xkeshav.com)
 
 Also hold an AWS practitioner certificate 
 
@@ -37,7 +38,6 @@ Also hold an AWS practitioner certificate
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -74,4 +74,5 @@ Also hold an AWS practitioner certificate
 
 [ccc]: https://marketplace.visualstudio.com/items?itemName=xkeshav.css-color-collector
 [npm]: https://www.npmjs.com/package/@xkeshav/watch
+[gh-repo-care]: https://www.npmjs.com/package/@xkeshav/gh-repo-care
 [jsr]: https://jsr.io/@xkeshav
