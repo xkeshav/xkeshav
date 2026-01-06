@@ -5,6 +5,8 @@ on:
     - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
+permissions: contents: write # allow committing back to the repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
