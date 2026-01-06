@@ -28,32 +28,65 @@ Also hold an AWS practitioner certificate
 
 ### Skills
 
-<p align="left" >
-[![Javascript](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Typescript](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/typescript-colored.svg)](https://www.typescriptlang.org/)  
-[![HTML5](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/html5-colored.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  
-[![React](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/react-colored.svg)](https://reactjs.org/)  
-[![Angular](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/angularjs-colored.svg)](https://angular.io/)
-[![Redux](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/redux-colored.svg)](https://redux.js.org/)
-[![CSS3](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/css3-colored.svg)](https://www.w3.org/TR/CSS/#css)
-[![Sass](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/sass-colored.svg)](https://sass-lang.com/)
-[![JQuery](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/jquery-colored.svg)](https://jquery.com/)
-[![NodeJS](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/nodejs-colored.svg)](https://nodejs.org/en/)
-[![MySQL](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mysql-colored.svg)](https://www.mysql.com/)
-[![MongoDB](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mongodb-colored.svg)](https://www.mongodb.com/)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/javascript-colored.svg" alt="Javascript" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/typescript-colored.svg" alt="Typescript" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/html5-colored.svg" alt="HTML5" height="40"/>
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/react-colored.svg" alt="React" height="40"/>
+</a>
+<a href="https://angular.io/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/angularjs-colored.svg" alt="Angular" height="40"/>
+</a>
+<a href="https://redux.js.org/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/redux-colored.svg" alt="Redux" height="40"/>
+</a>
+<a href="https://www.w3.org/TR/CSS/#css">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/css3-colored.svg" alt="CSS3" height="40"/>
+</a>
+<a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/sass-colored.svg" alt="Sass" height="40"/>
+</a>
+<a href="https://jquery.com/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/jquery-colored.svg" alt="JQuery" height="40"/>
+</a>
+<a href="https://nodejs.org/en/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/nodejs-colored.svg" alt="NodeJS" height="40"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mysql-colored.svg" alt="MySQL" height="40"/>
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/skills/mongodb-colored.svg" alt="MongoDB" height="40"/>
+</a>
 </p>
 
-### Socials
+## Socials
 
-<p align="left" >
-[![Portfolio](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/portfolio.svg)](https://www.xkeshav.com)
-[![Dev.to](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/devdotto.svg)](https://www.dev.to/xkeshav)
-[![GitHub](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/github.svg)](https://www.github.com/xkeshav)
-[![LinkedIn](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/linkedin.svg)](https://www.linkedin.com/in/xkeshav)
-[![Stack Overflow](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/stackoverflow.svg)](https://www.stackoverflow.com/users/155861)
-[![Twitter](https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/twitter.svg)](https://www.twitter.com/xkeshav)
-
-</p>
+<a href="https://www.xkeshav.com">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/portfolio.svg" alt="Portfolio" height="40"/>
+</a>
+<a href="https://www.dev.to/xkeshav">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/devdotto.svg" alt="Dev.to" height="40"/>
+</a>
+<a href="https://www.github.com/xkeshav">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/github.svg" alt="GitHub" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/xkeshav">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/linkedin.svg" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://www.stackoverflow.com/users/155861">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/stackoverflow.svg" alt="Stack Overflow" height="40"/>
+</a>
+<a href="https://www.twitter.com/xkeshav">
+  <img src="https://raw.githubusercontent.com/xkeshav/xkeshav/main/assets/icons/socials/twitter.svg" alt="Twitter" height="40"/>
+</a>
 
 ### Badges<b>My GitHub Stats</b>
 
