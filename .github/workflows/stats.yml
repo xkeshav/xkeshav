@@ -1,0 +1,31 @@
+name: Update Stats Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Generate stats
+        run: node scripts/stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+
+      - name: Commit stats.svg
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git commit -m "Update stats card"
+          git push
