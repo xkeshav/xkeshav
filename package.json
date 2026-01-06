@@ -1,0 +1,12 @@
+{
+  "name": "xkeshav-profile",
+  "version": "1.0.0",
+  "description": "Scripts to generate GitHub stats cards for my profile README",
+  "type": "module",
+  "scripts": {
+    "stats": "node scripts/stats.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
