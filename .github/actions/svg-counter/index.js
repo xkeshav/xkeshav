@@ -1,15 +1,6 @@
+// .github/actions/svg-counter/index.js
 const fs = require('fs');
 const path = require('path');
-const { Octokit } = require('@octokit/rest');
-
-async function getGitHubTraffic() {
-  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-  const { data } = await octokit.request('GET /repos/{owner}/{repo}/traffic/views', {
-    owner: 'xkeshav', // replace with your username
-    repo: 'xkeshav', // replace with your repo name
-  });
-  return data.count;
-}
 
 async function getLifetimeCount() {
   const res = await fetch('https://api.countapi.xyz/hit/xkeshav/profile');
@@ -17,26 +8,30 @@ async function getLifetimeCount() {
   return data.value;
 }
 
+// If you don’t need GitHub Traffic API yet, comment this out or add it later.
+// async function getGitHubTraffic() { /* add when ready */ }
+
 async function run() {
+  console.log('Running updated index.js without node-fetch');
   const filename = process.env.INPUT_FILENAME || 'count.svg';
-  const trafficCount = await getGitHubTraffic();
   const lifetimeCount = await getLifetimeCount();
 
   const svg = `
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
   <rect width="300" height="80" fill="#222"/>
-  <text x="150" y="30" font-size="20" text-anchor="middle" fill="white">
-    14-day views: ${trafficCount}
-  </text>
-  <text x="150" y="60" font-size="20" text-anchor="middle" fill="white">
+  <text x="150" y="45" font-size="20" text-anchor="middle" fill="white">
     Lifetime hits: ${lifetimeCount}
   </text>
 </svg>
 `;
 
-  const outputPath = path.join(process.env.GITHUB_WORKSPACE || process.cwd(), filename);
+  const workspace = process.env.GITHUB_WORKSPACE || path.resolve(__dirname, '../../..');
+  const outputPath = path.join(workspace, filename);
   fs.writeFileSync(outputPath, svg);
   console.log(`Generated ${outputPath}`);
 }
 
-run();
+run().catch((err) => {
+  console.error('Action failed:', err);
+  process.exit(1);
+});

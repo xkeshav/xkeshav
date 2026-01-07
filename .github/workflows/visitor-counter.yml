@@ -14,6 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Show action script header 
+        run: | 
+          sed -n '1,20p' .github/actions/svg-counter/index.js
+
       - name: Generate SVG counter
         uses: ./.github/actions/svg-counter
         with:
