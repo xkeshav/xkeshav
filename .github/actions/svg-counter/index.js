@@ -1,6 +1,6 @@
 // .github/actions/svg-counter/index.js
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 async function getLifetimeCount() {
   const res = await fetch('https://api.countapi.xyz/hit/xkeshav/profile');
