@@ -1,0 +1,38 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+**/node_modules/*
+/bower_components/*
+
+build/*
+dist/*
+
+# testing
+/coverage/*
+/dist/*
+/build/*
+/.tmp/*
+/.astro/*
+
+# misc
+.DS_Store
+**/.DS_Store
+.env.local
+Thumbs.db
+desktop.ini
+
+# IDE
+*.sublime-*
+/.idea
+*~
+
+# environment variables
+.env
+.env.production
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/.astro/astro/content.d.ts

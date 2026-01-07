@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+  <rect width="200" height="50" fill="#222"/>
+  <text x="100" y="30" font-size="20" text-anchor="middle" fill="white">
+    Visitors: 123
+  </text>
+</svg>

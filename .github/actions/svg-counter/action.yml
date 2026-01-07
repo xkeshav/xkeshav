@@ -1,0 +1,13 @@
+name: "SVG Counter Generator"
+description: "Generate visitor counter SVG"
+runs:
+  using: "node20"
+  main: "index.js"
+inputs:
+  filename:
+    description: "Name of the SVG file"
+    required: false
+    default: "count.svg"
+outputs:
+  file:
+    description: "Path to generated SVG"

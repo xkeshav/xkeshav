@@ -26,6 +26,10 @@ Also hold an AWS practitioner certificate
 - 🤝  I'm open to collaborating on JavaScript and TypeScript projects
 - ⚡  love books and music and meeting.
 
+### Visitor Count
+
+![Visitor Count](./count.svg)
+
 ### Skills
 
 <p align="left">
@@ -94,9 +98,7 @@ Also hold an AWS practitioner certificate
 
 ---
 
-### Visitor Count
-
-![Visitor Count](./count.svg)
+## Personal Projects
 
 [ccc]: https://marketplace.visualstudio.com/items?itemName=xkeshav.css-color-collector
 [npm]: https://www.npmjs.com/package/@xkeshav/watch
