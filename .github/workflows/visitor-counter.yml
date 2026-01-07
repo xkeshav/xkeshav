@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate SVG counter
-        uses: ./github/actions/svg-counter
+        uses: ./.github/actions/svg-counter
         with:
           filename: count.svg
 
