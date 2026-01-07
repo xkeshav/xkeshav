@@ -27,7 +27,7 @@ jobs:
       - name: Run profile views counter
         uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
-          INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          INSIGHTS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit visitor count
         env:
