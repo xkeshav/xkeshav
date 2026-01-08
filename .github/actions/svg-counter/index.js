@@ -1,18 +1,16 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
 async function getLifetimeCount() {
-  const res = await fetch('https://api.countapi.xyz/hit/xkeshav/profile');
-  const data = await res.json();
-  return data.value;
+  const counter = JSON.parse(fs.readFileSync("./counter.json", "utf8"));
+  counter.value++;
+  fs.writeFileSync("./counter.json", JSON.stringify(counter));
+  return counter.value;
 }
 
-// If you don’t need GitHub Traffic API yet, comment this out or add it later.
-// async function getGitHubTraffic() { /* add when ready */ }
-
 async function run() {
-  console.log('Running updated index.js without node-fetch');
-  const filename = process.env.INPUT_FILENAME || 'count.svg';
+  console.log("Running updated index.js without node-fetch");
+  const filename = process.env.INPUT_FILENAME || "count.svg";
   const lifetimeCount = await getLifetimeCount();
 
   const svg = `
@@ -24,13 +22,13 @@ async function run() {
 </svg>
 `;
 
-  const workspace = process.env.GITHUB_WORKSPACE || path.resolve(__dirname, '../../..');
+  const workspace = process.env.GITHUB_WORKSPACE || path.resolve(".");
   const outputPath = path.join(workspace, filename);
   fs.writeFileSync(outputPath, svg);
   console.log(`Generated ${outputPath}`);
 }
 
 run().catch((err) => {
-  console.error('Action failed:', err);
+  console.error("Action failed:", err);
   process.exit(1);
 });
