@@ -1,4 +1,3 @@
-// .github/actions/svg-counter/index.js
 import fs from 'fs';
 import path from 'path';
 

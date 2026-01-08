@@ -1,7 +1,7 @@
 {
   "name": "svg-counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "for git action to generate svg counter",
   "main": "index.js",
   "type":"module",
   "scripts": {
