@@ -1,10 +1,13 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 async function getLifetimeCount() {
-  const counter = JSON.parse(fs.readFileSync("./counter.json", "utf8"));
+  const counterPath = path.join(__dirname, "counter.json");
+  const counter = JSON.parse(fs.readFileSync(counterPath, "utf8"));
   counter.value++;
-  fs.writeFileSync("./counter.json", JSON.stringify(counter));
+  fs.writeFileSync(counterPath, JSON.stringify(counter));
   return counter.value;
 }
 
