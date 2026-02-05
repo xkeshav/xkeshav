@@ -2,8 +2,8 @@
   <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="#1c1917"/>
     <text x="20" y="40" fill="#0891b2" font-size="20">GitHub Stats</text>
-    <text x="20" y="80" fill="#ffffff">⭐ Stars: 43</text>
-    <text x="20" y="110" fill="#ffffff">📦 Public Repos: 69</text>
+    <text x="20" y="80" fill="#ffffff">⭐ Stars: 45</text>
+    <text x="20" y="110" fill="#ffffff">📦 Public Repos: 70</text>
     <text x="20" y="140" fill="#ffffff">👥 Followers: 38</text>
     <text x="20" y="170" fill="#ffffff">➡️ Following: 54</text>
   </svg>
