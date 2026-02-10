@@ -26,10 +26,6 @@ Also hold an AWS practitioner certificate
 - 🤝  I'm open to collaborating on JavaScript and TypeScript projects
 - ⚡  love books and music and meeting.
 
-### Visitor Count
-
-![Visitor Count](./count.svg)
-
 ### Skills
 
 <p align="left">
